@@ -3,7 +3,7 @@
 > "Comment a-t-on des idées ? Par la pérsévérance poussée jusqu'au bord de la folie." - Charles Chaplin
 
 
-Pendant longtemps, F la création était perçu comme un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a a été le sujet de nombreuses études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
+Pendant longtemps, la création était perçu comme un acte divin. C'est seulement à partir de 1623, avec la définition du mot "artifex" par le poète Mathias Sabievius, que nous avons commencé à différencier l'acte de "seconde création" propre à l'homme. Et de ce fait, la créativité était associée pendant longtemps à l'art. Depuis les années 60, la créativité a a été le sujet de nombreuses études et fait maintenant partie d'un des leviers les plus importants dans notre société. 
 
 Générer de nouvelles idées n'est pas une chose innée, tout le monde est capable de produire des idées. Vous n'avez pas besoin d'attendre que l'idée vous tombe dessus. 
 La créativité, c'est la capacité à réaliser une production d'idées originale et adaptée à un contexte défini. Toutefois, il ne faut pas confondre créativité et innovation. Cette dernière est un processus d'invention, de développement et de mise sur le marché d'idées finalisées. 

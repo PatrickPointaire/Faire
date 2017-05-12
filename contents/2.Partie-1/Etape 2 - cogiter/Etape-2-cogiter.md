@@ -38,25 +38,25 @@ Que cela soit individuellement ou en groupe, une session de génération d'idée
 
 #####  Environnement 
 
-Qu'est-ce que vous feriez pour inciter une personne à manger du pop-corn? Il suffit simplement de l'amener au cinéma. L'environnement et le contexte influence notre nos sens et notre capacité à générer des solutions. Chaque fois que nous gérons ce type de processus pour nos clients, nous constatons l'importance de l'environnement.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poid aussi important l'un que l'autre sur le processus créatif. 
+Qu'est-ce que vous feriez pour inciter une personne à manger du pop-corn? Amenez-la au cinéma par exemple. L'environnement et le contexte influencent nos sens et notre capacité à générer des solutions. Chaque fois que nous gérons ce type de processus pour nos clients, nous constatons l'importance de l'environnement.  Le contenu (le fond - le sujet) et le contenant (la forme - la façon de faire) ont un poids d'égale importance sur le processus créatif. 
 
-Nous avons experminenté des situations avec des résultats médiocres car l'environnement n'était pas favorable. Par exemple, imaginez que vous réalisez une recherche de solution dans votre salle de réunion habituelle. Dans cette même salle, vous faites des séances d'évaluation des personnes, ou encore anonncez des nouvelles peu réjouissantes. Comment voulez-vous que les personnes soit inspirés dans un environnement où il y a trop d'affects, comme disent les psychologues. Prenez en considération que les places peuvent booster ou freiner votre créativité et celle de vos équipes. 
+Nous avons experminenté des situations amenant à des résultats médiocres car l'environnement n'était pas favorable. Par exemple, imaginez que vous réalisez une recherche de solution dans votre salle de réunion habituelle. Dans cette même salle, vous faites des activités diverses comme par exemple, des des séances d'évaluation des personnes, ou encore anonncer des nouvelles peu réjouissantes, etc. Comment voulez-vous que les collaborateurs soient inspirés dans un environnement où il y a trop d'affects, comme diraient les psychologues. Prenez en considération que les espaces choisis peuvent booster ou freiner votre créativité et celle de vos équipes. 
 
 ##### Artefacts
 
-Gardez à l'esprit que les artefacts peuvent aider à penser. Les artefacts sont des objets symboliques. Par exemple, quand vous utilisez un post-it, vous utilisez en réalité un moyen intermédiaire pour mettre par écrit vos pensées. Le cas des post-its est simple et connu par la majorité des professionnels. Il existe d'autres solutions qui aident à *penser*. 
+Les artefacts sont des objets symboliques destinés à vous aider à penser. Par exemple, quand vous utilisez un post-it, vous utilisez en réalité un moyen intermédiaire pour mettre par écrit vos pensées. Le cas des post-its est simple et connu par la majorité des professionnels, mais il existe d'autres solutions qui favorisent le processus réflexif. 
 
-Vous pouvez utiliser des solutions inspirés des *serious games* (jeux sérieux)[^sérieux] comme *Lego serious play* ou des outils en ligne[^en_ligne] comme hors ligne - et parfois un mix : la boite à idées u2[^u2] est un bel exemple. Pour notre part, nous collaborons aussi avec des chercheurs pour certains outils comme le Creative Profiler[^profiler]. Vous pouvez aussi inventer des artefacts en lien avec votre thématique.
+Vous pouvez utiliser des solutions inspirées des *serious games* (jeux sérieux)[^sérieux] comme *Lego serious play* ou des outils en ligne[^en_ligne], hors ligne, ou parfois un mélange des deux. la boîte à idées u2[^u2] est un bel exemple. Pour notre part, nous collaborons aussi avec des chercheurs pour certains outils comme le Creative Profiler[^profiler]. Vous pouvez aussi inventer des artefacts en lien avec votre thématique.
 
 Si vous souhaitez approfondir le rôle de facilitateur et les outils à utiliser, vous pouvez télécharger sur notre site web des outils gratuits[^gratuits] pour vos sessions de brainstorming.
 
-[^sérieux]: les jeux sérieux ont pour vocation de rendre attrayantes et ludiques des dimensions sérieuses. Historiquement, au XVème siècle, des écrivains utilisaient un style d'écriture léger pour dénoncer des problèmes de société lourds. Avec l'avénement de l'informatique, les entreprises utilisent.
+[^sérieux]: les jeux sérieux ont pour vocation de rendre attrayantes et ludiques des dimensions sérieuses. 
 
 [^en_ligne]: il existe sur le web d'innombrables logiciels de génération d'idées. Pour notre part, nous utilisons le logiciel *la machine à idées* de nos amis Brainstore. 
 
 [^u2]: constatant que la majorité des boîtes à idées apporte un résultat insatisfaisant, nous avons crée en 2013 une boite à idée connectée, appelé u2. Une mini-imprimante thermique connectée à un logiciel de génération d'idées qui permet de stocker et d'imprimer les suggestions sur le champ.
 
-[^profiler]: Creative Profiler est un logiciel d'évaluation des 10 facteurs essentiels de créativité dans les équipes. Le but est de construire des équipes performantes et créatives. Cet outil a été développé par une équipe de chercheurs de l'université de Paris Descartes, menée par le professeur Todd Lubart. 
+[^profiler]: Creative Profiler est un logiciel d'évaluation des dix facteurs essentiels de créativité dans les équipes. Le but est de construire des équipes performantes et créatives. Cet outil a été développé par une équipe de chercheurs de l'université de Paris Descartes, menée par le professeur Todd Lubart. 
 
 [^gratuits]: plus d'informations sur les outils à télécharger sur notre site web **www.think2make.ch/faire**
  

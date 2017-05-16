@@ -2,16 +2,14 @@
 
 > .................................................................................... (champ citation à remplir, à vous de décider)
 
-
-Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, à regarder avec une vue "*ou*". Et de ne pas réussir à voir en mode "*et*", de façon complémentaire. Il en va de même dans la façon dont nous décidons des solutions. Dans le chapitre précédent, nous avons vu la façon de générer des idées - en évitant de les juger. Souvent, après cette phase, les personnes ont tendance à juger drastiquement les idées produites, en rentrant dans un mode binaire "c'est juste ou c'est faux". 
-
-Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision. 
+Il est toujours surprenant de constater à quel point nous avons tendance à réduire le monde en solutions binaires, réifiant ainsi les possiblités dans des relations bivalentes ("ou") au lieu de relations complémentaires ("et"). Il en est de même dans la façon dont nous décidons des solutions envisagées. Au cours du chapitre précédent, nous avons vu la manière de générer des idées en évitant d'émettre des jugements. Or, il est commun qu'après cette phase de génération que les personnes tendent à juger les idées produites de manière binaire (c'est juste ou c'est faux). Comme la phase de divergence et émergence du précédent chapitre, cette phase de convergence comporte quatre principes que vous pouvez garder à l'esprit durant la phase de décision. (Il faut revoir ce paragraphe, les idées sont très déconstruites)
 
 ### 4 principes de la décision
 
 **1) Ayez un jugement affirmatif**
 
-Cherchez d’abord les forces ou les points positifs d’une idée. Quand vous identifiez des limites d'une idée, évitez les phrases qui tuent les idées prématurément. Énoncez plutôt vos préoccupations sous forme de questions encourageant à continuer à développer ou améliorer les idées. Par exemple, commencez l’énoncé en vous demandant « Comment faire pour... ? » ou « Comment pourrais-je... ? » Ces questions devraient vous aider à réfléchir davantage aux idées plutôt que de les écarter. L’évaluation et la prise de décision sont des processus d'amélioration de vos idées, et pas simplement des moyens de les critiquer.
+Cherchez d’abord les forces ou les points positifs d’une idée. Pour ce faire, lorsque vous identifiez des limites de cette dernière, évitez les phrases qui l'abortent prématurément. Énoncez plutôt vos préoccupations sous forme d'autres questions encourageant à continuer le dévoloppment ou l'affinnement des idées. Par exemple, commencez l’énoncé en vous demandant « Comment faire pour... ? » ou « Comment pourrais-je... ? » Ces questions devraient vous aider à réfléchir davantage aux idées plutôt que de les écarter. L’évaluation et la prise de décision sont des processus d'amélioration de vos idées, et pas simplement des moyens de les critiquer.
+
 
 **2) Utilisez une démarche systématique**
 

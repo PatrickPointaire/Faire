@@ -13,11 +13,11 @@ Cherchez d’abord les forces ou les points positifs d’une idée. Pour ce fair
 
 **2) Utilisez une démarche systématique**
 
-Trop souvent, nous pensons que évaluer et décider doit être sans émotion. Au contraire. Il est impossible de décider sans y mettre de l'émotion. Evidemment, il est encore plus difficile sans avoir une démarche structurée. A cet effet, nous vous proposerons quelques outils que vous pouvez utiliser dans la phase de convergence. Utilisez ces outils ou inventez en d'autres. Si vous travaillez en groupe, communiquez et partager votre démarche d'analyse et décision avec les personnes avec lesquelles vous travailler sur votre projet. Ainsi, vous favorisez un regard complémentaire sur votre démarche d'analyse, une évaluation pertinente et l'adhésion des personnes.
+Trop souvent, nous pensons qu'évaluer et/ou décider doivent être processus objectifs. Au contraire, il est impossible de le faire sans y incorporer des aspects émotionnels, autrement dit, de la subjectivité. Cela est d'autant plus vrai s'il on procède sans une démarche structurée. A cet effet, nous vous proposerons quelques outils que vous pouvez utiliser dans la phase de convergence. Utilisez ces outils ou inventez en d'autres. Si vous travaillez en groupe, communiquez et partager votre démarche d'analyse et décision avec les personnes avec lesquelles vous travailler sur votre projet. Ainsi, vous favorisez un regard complémentaire sur votre démarche d'analyse, une évaluation pertinente et l'adhésion des personnes.
 
 **3) Détectez la nouveauté** 
 
-Les idées sont extrêmement émotionnelles. Il est tentant d'éviter de prendre trop de risques et décider d'une idée "mainstream", d'une solution qui convienne à la moyenne ou associées à la première façon de penser. 
+Les idées sont extrêmement émotionnelles. (coupure trop brutale entre les deux phrases, développe ta pensée) Il est tentant d'éviter la prise de risque et de se tourner vers une idée "mainstream", c'est-à-direm d'une solution qui convienne à la moyenne ou associées à la première façon de penser. 
 Quand le but est de chercher de nouvelles idées, vous devez vous efforcer de porter un regard actif sur la nouveauté et mettre l'énergie pour la détecter.
 
 Sinon, vous vous demandez pourquoi vous avez cherché une idée ! Gardez à l'esprit de toujours assurer que la nouveauté est soutenue et développée durant la phase de convergence. Si vous travaillez à plusieurs, le meilleur moyen pour y parvenir c'est d'impliquer un mix entre des personnes qui peuvent apporter un regard expérimenté et un regard nouveau dans votre projet.

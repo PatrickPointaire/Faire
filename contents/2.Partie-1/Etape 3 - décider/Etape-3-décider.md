@@ -17,33 +17,29 @@ Trop souvent, nous pensons qu'évaluer et/ou décider doivent être processus ob
 
 **3) Détectez la nouveauté** 
 
-Les idées sont extrêmement émotionnelles. (coupure trop brutale entre les deux phrases, développe ta pensée) Il est tentant d'éviter la prise de risque et de se tourner vers une idée "mainstream", c'est-à-direm d'une solution qui convienne à la moyenne ou associées à la première façon de penser. 
-Quand le but est de chercher de nouvelles idées, vous devez vous efforcer de porter un regard actif sur la nouveauté et mettre l'énergie pour la détecter.
-
-Sinon, vous vous demandez pourquoi vous avez cherché une idée ! Gardez à l'esprit de toujours assurer que la nouveauté est soutenue et développée durant la phase de convergence. Si vous travaillez à plusieurs, le meilleur moyen pour y parvenir c'est d'impliquer un mix entre des personnes qui peuvent apporter un regard expérimenté et un regard nouveau dans votre projet.
+Les idées sont extrêmement émotionnelles. (coupure trop brutale entre les deux phrases, développe ta pensée) Il est tentant d'éviter la prise de risque et de se tourner vers une idée "mainstream", c'est-à-dire, une solution en adécquation avec ce que la majorité des gens font. Nous vous recommandons de vous efforcer de porter un regard actif sur la nouveauté et mettre l'énergie nécéssaire pour la détecter.
+Gardez à l'esprit de toujours vous assurez que la nouveauté est soutenue et développée durant la phase de convergence. Si vous travaillez à plusieurs, le meilleur moyen pour y parvenir c'est d'impliquer un mélange entre des personnes pouvant apporter un regard expérimenté et un regard nouveau dans votre projet.
 
 **4) Gardez le cap de vos objectifs**
 
-Quand nous cherchons de nouvelles idées, nous pouvons vite nous emballer par l'enthousiasme et perdre de vue l'objectif final, le but à atteindre. Utilisez le cahier des charges (voir chapitre 1) comme boussole dans votre avancement et un moyen d'évaluer les solutions pour atteindre votre objectif.
-
-Il se peut également que, fur à mesure que votre projet avance, votre objectif initial nécessite une correction. Faire des idées est un acte remplie d'aléas, ce n'est pas une route droite, ni parfaite. Et c'est là que réside le plaisir. 
+lorsque nous cherchons de nouvelles idées, il est facile de se laisser porter par l'enthousiasme et perdre de vue l'objectif final, le but à atteindre. A cet égard, le cahier des charges (voir chapitre 1) pourra vous servir de boussole dans votre avancement et comme un moyen d'évaluation des solutions pour atteindre votre objectif. Il se peut également qu'au fur et à mesure que votre projet avance, votre objectif initial nécessite une correction. Générer des idées est un acte remplie d'aléas. Il ne s'agit pas d'une route droite, et c'est bien là où réside le plaisir. 
 
 ### Dessiner pour décider
 
-Matérialiser vos pensées sous forme de visuels, de prototypes, d'histoires racontant une expérience permet que la solution ou résultat finale saute aux yeux. Car la plupart des défis ne sont pas compliqués ou impossibles, mais juste difficilement perceptibles ou semblent encore invisibles. Un prototype vaut mille mots, et la meilleure manière de découvrir le potentiel réel d’une idée est de la matérialiser. Pour donner de la forme à l'intangible (les idées), vous pouvez utiliser trois niveaux rendant l'idée plus concrète et plus compréhensible : 
+Matérialisez vos pensées sous des formes diverses, il pourrait s'agir par exemple de visuels, de prototypes, ou d'histoires racontant une expérience. Cela vous permet que la solution ou résultat final puisse être mis en exergue, nous recherchons ici l'effet "saute aux yeux". La plupart des défis ne sont pas compliqués ou impossibles, mais difficilement perceptibles voire invisibles. Un prototype vaut mille mots, et la meilleure manière de découvrir le potentiel véritable d’une idée est de la matérialiser. Pour donner forme à l'intangible (les idées), vous pouvez utiliser trois niveaux rendant l'idée plus concrète et compréhensible : 
 
 ![](../contents/img/Niveau_visualiser_idees.png)
 
-Cela paraît simple. Imaginez maintenant que vous devez améliorer l'expérience de l'accueil d'un hôtel, d'un hopital, d'une prison ou encore de votre propre entreprise. Comment procéder ? Parfois, la façon de visualiser n'existe pas, il faut l'inventer. Dans le cas ci-dessus, vous pouvez par exemple tenter d'illustrer en *mimant*, comme au théâtre. 
+Cela paraît simple. Imaginez maintenant que vous devez améliorer l'expérience d'accueil d'un hôtel, d'un hopital, d'une prison ou encore de votre propre entreprise. Comment procéder ? Parfois, la façon de le visualiser n'existe pas, il faut donc l'inventer. Dans le cas ci-dessus, vous pouvez par exemple tenter de l'illustrer en *mimant*, comme au théâtre. 
 
-Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Pour que les solutions puissent être évaluable, ayez le même référentiel (la même façon d'illustrer votre solution), ainsi vous aurez des solutions comparables entres elles et la décision sera plus objective.
+Créer des prototypes permet de découvrir l’attractivité de chacune de vos solutions. Ainsi, cette étape d’affinement vous permet d’obtenir une collection de solutions. Toutefois, pour que les solutions puissent être évaluables, vous devez garder le même référentiel (la même façon d'illustrer votre solution), ainsi vous aurez des solutions comparables entres elles et la décision sera plus objective.
 
 
 ##### Six façons de visualiser les idées 
 
-Il est essentiel d'avoir un language universel pour la compréhension d'une solution. C'est essentiel pour votre propre compréhension, celle des personnes impliquées et les personnes à qui vous souhaitez apporter ou vendre votre idée. Pour cela, un simple dessin est le meilleur moyen. Car il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 
+Il est essentiel d'avoir un language universel pour la compréhension d'une solution. C'est essentiel pour votre propre compréhension, celle des personnes impliquées, et surtout pour ceux à qui vous souhaitez apporter ou vendre votre idée. Pour cela, un simple dessin est le meilleur moyen, car il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement. 
 
-Dans le premier chapitre, nous avons abordé les six questions fondamentales, appelées communément la méthode QQOQCP. Pour représenter une idée, Dan Roam propose dans son livre *Convaincre en deux coups de crayon* 6 façons différentes d'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique. Relié ensemble, cela donne ça : 
+Dans le premier chapitre, nous avons abordé les six questions fondamentales, appelées communément la méthode QQOQCP. Pour représenter une idée, Dan Roam propose dans son livre *Convaincre en deux coups de crayon* six façons différentes d'illustrer : portrait/design, diagramme, carte, chronologie, logigramme et graphique. Une fois assemblés, cela donne le résultat suivant : 
 
 1. **Qui/Quoi :** Si vous souhaitez illustrer un nom, dessinez **un portrait ** pour montrer le sujet ou l'objet.
 
@@ -71,7 +67,7 @@ Dans le premier chapitre, nous avons abordé les six questions fondamentales, ap
 
 ##### Un exemple
 
-Vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le *quoi*). Pour déterminer son prix, vous allez dessiner un diagramme (le *combien*). Pour illustrer l'expérience utilisateur, vous allez dessiner une chronologie (le *quand*). Et pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le *comment*). 
+Imaginons que vous souhaitez créer une future application mobile. Pour le logo de l'application, vous allez dessiner un portrait (le *quoi*). Pour déterminer son prix, vous allez dessiner un diagramme (le *combien*). Pour illustrer l'expérience utilisateur, vous allez dessiner une chronologie (le *quand*). Enfin, pour expliquer le fonctionnement informatique de l'application, vous allez présenter un logigramme (le *comment*). 
 
 Face à des problèmes d'envergures où souvent plusieurs personnes interagissent et viennent parfois de différentes cultures et croyance, il est essentiel d'avoir un language universel pour les résoudre, un simple dessin est le meilleur moyen. Il permet de comprendre un problème et sa solution plus rapidement, plus intuitivement et de le communiquer plus efficacement aux autres. 
 
@@ -80,9 +76,9 @@ Prenez une feuille et un crayon et dessinez votre idée maintenant.
 
 ##### Simplifiez vos idées : trois façons d'y arriver
 
-Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les personnes ou groupe de personnes à qui elle s'adresse. Mais simplicité ne veut pas dire simpliste. Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? Simple c'est pas le synonyme, pourtant la finalité l'est.
+Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les invididus ou au groupe à qui elle s'adresse. Cependant, simplicité ne signifie pas "simpliste". Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? (Ici, il faut développer) Simple c'est pas le synonyme, pourtant la finalité l'est.
 
-La difficulté n’est pas a priori *comment* simplifier mais plutôt *combien* simplifier. La frontière entre simple et complexe n’est pas facile. La meilleure façon de procéder est d’aller par réduction.
+La difficulté n’est pas - a priori - *comment* simplifier mais plutôt *combien* simplifier. La frontière entre simple et complexe n’est pas aisée. La meilleure façon serait de procéder par réduction.
 
 **Atténuer :** 
 

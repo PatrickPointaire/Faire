@@ -76,43 +76,46 @@ Prenez une feuille et un crayon et dessinez votre idée maintenant.
 
 ##### Simplifiez vos idées : trois façons d'y arriver
 
-Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les invididus ou au groupe à qui elle s'adresse. Cependant, simplicité ne signifie pas "simpliste". Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? (Ici, il faut développer) Simple c'est pas le synonyme, pourtant la finalité l'est.
+Parfois pour faire, il faut commencer par défaire. Dans son livre *De la simplicité* le designer John Maeda explique l'importance de soustraire ce qui est évident et d'ajouter ce qui a du sens. Quand vous devez décider d'une solution à implémenter, vous devez aller à l'essentiel pour que votre solution soit comprise par les invididus ou au groupe à qui elle s'adresse. Cependant, simplicité ne signifie pas "simpliste". Avez-vous déjà démonté un smartphone et regardé à l'intérieur ? (Ici, il faut développer car on ne saisi pas l'idée que tu expliques) Simple c'est pas le synonyme, pourtant la finalité l'est.
 
 La difficulté n’est pas - a priori - *comment* simplifier mais plutôt *combien* simplifier. La frontière entre simple et complexe n’est pas aisée. La meilleure façon serait de procéder par réduction.
 
 **Atténuer :** 
 
-Il existe des objets de tailles très petites qui nous surprennent. En atténuant, nous donnons l’impression que l’objet est léger, mince ou délicat, nous arrivons à donner un plaisir inattendu.
+Il existe des objets de très petite taille qui nous surprennent. En atténuant, nous donnons l’impression que l’objet est léger, mince et délicat, nous arrivons à donner un plaisir inattendu.
 
 **Masquer :** 
 
-Une fois enlevé ce qui pouvait l’être, nous pouvons masquer la complexité. Ce qui donne un sentiment de simplicité.
+Une fois retiré ce qui pouvait l’être, nous pouvons masquer la complexité. Ce qui procure un sentiment de simplicité.
 
 **Insuffler :** 
 
 En enlevant ou en cachant des fonctionnalités, l’objet ou la solution simplifié peut perdre de sa valeur. En insufflant de la qualité, vous pouvez mettre en avant sa valeur première. 
 
+
+(Ces trois notions me paraissent plutôt floues, il faudrait les développer) 
+
 ### Evaluer les idées 
 
-Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou croyance. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^critères] que vous pouvez utiliser pour votre sujet : 
+Etant donné que les idées sont très émotionnelles, la plus part du temps, chacun évalue selon son humeur ou ses croyances. Quand il s'agit de faire de nouvelles idées, vous ne pouvez pas laisser au hasard les critères de décision. Voici trois critères[^critères] que vous pouvez utiliser pour votre sujet : 
 
-- \faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée, est-ce simple ou pas.
+- \faFlask **Faisabilité d'une idée** : ce critère vous informe sur la réalisation de l'idée (est-elle est simple?)
 
-- \faChain **Durabilité d'une idée** : ce critère vous informe sur la longévité, est-ce viable ou pas. 
+- \faChain **Durabilité d'une idée** : ce critère vous informe sur la longévité (est-elle viable?)
 
-- \faFemale **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel, est-ce que l'idée est sexy ou pas.
+- \faFemale **Désirabilité d'une idée** : ce critère vous informe sur le caractère émotionnel (l'idée est-elle sexy?)
 
-[^critères]: Nous nous sommes inspiré de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
+[^critères]: En ce qui concerne les critères ci-dessus, nous nous sommes inspirés de Vitruve (Marcus Vitruius, 1er siècle avant J.-C.). Vous pouvez en savoir plus sur son livre : De Architectura (c'est le premier livre d'architecture).
 
-La meilleure façon de décider de la bonne idée, est d'impliquer les personnes qui vont être confrontés à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant : 
+La meilleure façon de décider si votre idée est solide, il vous faut impliquer les personnes qui vont être confrontés à cette idée (utilisateurs, clients, fournisseurs, etc.) Il suffit d'intégrer les idées dans un fichier excel et demander d'évaluer sur des critères pré-définis. Cette évaluation donne un résultat statistique suivant : 
 
 - **Moyenne des idées :** calcul de la moyenne des notes émises par les évaluateurs.
 - **Polarisation des idées :** calcul de l'écart entres les moyennes.
 
-Certaines idées auront des polarisations élevées, ce sont celles où l'on est fortement pour ou contre.
-Avec cette méthode vous démontrez qualitativement "combien" une idée est appréciée ou détestée. 
+Certaines idées auront des polarisations élevées, ce sont celles qui sont le plus fortement appreciées ou detestées.
+Avec cette méthode vous démontrez qualitativement comment une idée perçue (elle vous informe sur le "combien"). 
 
-Dans les sujets nouveaux et exploratoires, ce sont souvent les idées fortement polarisées qui sont intéressantes, plutôt que celles qui ont les plus hautes moyennes et une faible polarisation.
+Les sujets nouveaux et exploratoires, ce sont souvent les idées les plus fortement polarisées. Du point de vue de l'innovation, elles sont plus intéressantes que celles qui ont les plus hautes moyennes et une faible polarisation.
 
 
 
@@ -130,16 +133,14 @@ Vous connaissez peut-etre des méthodes d'analyses, telles que SWOT (en françai
 
 ##### Evaluer n'est pas décider
 
-Trop souvent en entreprise, des ateliers et de nombreuses séances sont organisés pour générer des idées, évaluer, analyser, en parler et rediscuter - et à la fin il n'y a plus personne pour décider. Durant ce chapitre, vous le lecteur avez pu découvrir et peut-etre déjà pratiquer certains outils. Vous êtes maintenant sur le point de prendre une décision importante ? Notre suggestion : prenez votre décision le matin. 
-
-En effet, plus la journée avance, plus nous prenons des décisions de manière impulsive. Et souvent trop rapidement. C'est la constatation d'une étude dirigée par le psychologue argentin Mariano Sigman[^sigman].
+Trop souvent en entreprise, des ateliers et de nombreuses séances sont organisés pour générer des idées, évaluer, analyser, en parler et rediscuter. Pourtant, à la fin, il n'y a plus personne pour décider. (les deux phrases n'ont pas de suite logique... il n'y a pas de fil rouge) Durant ce chapitre, vous avez pu découvrir et peut-etre déjà pratiquer certains outils. Vous en êtes éventuellement au point de prendre une décision importante pour votre projet, si tel est le cas, nous vous suggérons le conseil suivant  : prenez votre décision le matin. En effet, plus la journée avance, plus nous prenons des décisions de manière impulsive. Ce phénomène a été constaté durant une étude menée par le psychologue argentin Mariano Sigman[^sigman].
 
 [^sigman]: Magazine Psychoscope 2/2017
 
 
 ##### Etude de marché rapide : 10 questions à se poser 
 
-Vous souhaitez innover - soit mettre sur le marché une idée. A cet effet, vous avez généré des idées, vous avez prototypé et analysé les solutions qui ont du potentielles. Mais vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement. Mais le temps vous manque. Utilisez les 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée - c'est une étude de marché en mode accélérée. 
+Vous souhaitez innover ou lancer un projet sur le marché? A cet effet, vous avez généré des idées, vous avez prototypé et analysé les solutions qui ont du potentiel. Cependant, vous ne savez toujours pas si votre idée fonctionnera sur le marché. Evidemment, vous savez que votre succès dépend grandement de la capacité à prendre des décisions efficacement et rapidement car le temps vous manque. Utilisez les 10 questions inspirées du livre *MBApersonnel* de Kaufmann pour évaluer le potentiel de votre idée. Il s'agit d'une étude de marché en mode accéléré. 
 
 #####Consignes 
  
@@ -166,7 +167,7 @@ Remarques :
 
 
 
-**Taille du marché :** Combien de personnes sont prêtes à acheter ce genre de choses ?
+**Taille du marché :** Combien de personnes sont prêtes à acheter ce genre de produit ?
 
 Nombre de points : ..........................
 
@@ -277,7 +278,7 @@ Remarques :
 
 Ce que nous avons appris : dans ce chapitre, vous avez été sensibilisé sur le processus de décision. Vous avez appris comment matérialiser votre idée tout en sachant la mettre en valeur en toute simplicité. Enfin, vous avez appris et pratiqué comment évaluer efficacement une idée. 
 
-Dans le chapitre suivant, nous allons voir comment planifier efficacement l'implémentation de votre projet et comment le découper en petites actions que vous pouvez gérer efficacement. 
+Dans le chapitre suivant, nous allons voir comment planifier efficacement l'implémentation de votre projet et comment le découper en petites actions que vous pouvez gérer de manière efficiente. 
 
 
 
